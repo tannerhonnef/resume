@@ -1,5 +1,5 @@
 # Tanner Honnef
-![Headshot](heroPhoto.jpg) {width: 300px;}
+<img src="headshot.png" width="200">
 
 ## Education
 [Adolfo Camarillo High School](https://www.camarillohigh.us/) (2016-2020)
