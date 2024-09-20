@@ -1,8 +1,9 @@
 # Tanner Honnef
-<img src="headshot.png" width="200">
+![Headshot](heroPhoto.jpg)
 
 ## Education
 [Adolfo Camarillo High School](https://www.camarillohigh.us/) (2016-2020)
+<br/>
 [Clark University](https://www.clarku.edu/) BA Geography '24 MS GIS '25 (2020-2025)
 
 ## Research Interests
